@@ -1,0 +1,159 @@
+header{
+    /* position: ; */
+    z-index: 18;
+}
+.filter-hats{
+    /* background-color: #ffabe1; */
+    height: 135px;
+    /* opacity: 0.6; */
+    
+}
+.item{
+     /* border: 1px solid black; */
+    border-radius: 85px;
+    margin: 10px 2px;
+    width: 200px;
+    height: 55px;
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+    font-size: 25px;
+    color: #194350;
+    /* background-color: #ffabe1; */
+   
+}
+
+  .images{
+     border: none;
+    border-radius: 100%; 
+    width: 70px;
+    height: 70px;
+    margin: 0;
+}
+.main{
+    width: 100%;
+    height: 50px;
+    background-color: #194350;
+    position: fixed;
+    opacity: 0.5;
+    font-family: 'Dancing Script', cursive;
+    font-size: 35px;
+    text-align: center;
+    color: #fdb827;
+    /* font-weight: bold; */
+}
+
+
+
+             /* sidebar */
+
+.sidebar{
+    
+    border-right: 1px solid #e1e5ea;
+}
+
+.button{
+    margin-right: 105px;
+    position: relative;
+}
+
+form.example button:hover {
+  background: #0b7dda;
+}
+
+form.example::after {
+  content: "";
+  clear: both;
+  display: table;
+}   
+#search{
+    width: 210px;
+    border: 2px solid #194350;
+    border-radius: 0 25px;
+    height: 40px;
+    font-size: 20px;
+}
+#search:hover{
+height: 45px;
+border-radius:  25px 0;
+border: 1px solid #194350;
+}
+
+
+
+
+.inputt{
+    width: 15px;
+    height: 15px;
+    border-radius: 5%;
+}
+.foo{
+    
+    color:#194350 ;
+    font-family: 'Dancing Script', cursive;
+    font-size: 25px;
+}
+
+      /* color chekboks  */
+h4{
+    color:#fdb827 ;
+    font-family: 'Dancing Script', cursive;
+    font-size: 35px;
+    text-align: center;
+    font-weight: bold;
+}
+
+
+.foo1{
+    color: blue;
+}
+.foo2{
+    color: rgb(255, 0, 221);
+}
+.foo3{
+    color: rgb(238, 255, 0);
+}
+.side{
+    padding: 100px;
+}
+.bar{
+   margin-top: 100px; 
+   margin-left: 0;
+   margin-right: 0;
+   text-align: center;
+   padding: 0 100px;
+}
+
+
+
+
+                  /* cards */
+.images-data{
+    width: 220px;
+    height: 220px;
+    border-radius: 0 60px ;
+}
+.col{
+    width: 300px;
+}
+.btn1{
+    background-color: #194350 !important;
+    border: none;
+    width: 55px;
+    height: 30px;
+    margin-left: 130px;
+    position: relative;
+    padding: 5px;
+    border-radius: 0 15px;
+}
+.text1{
+    color:#334443 ;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    margin: 0;
+}
+h5{
+    margin: 0;
+}
+.card{
+    border-radius: 15px 0 ;
+}
